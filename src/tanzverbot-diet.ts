@@ -57,3 +57,6 @@ export function calcDateOnDiet(
   }
   return Math.ceil((9000 * weightGainKg) / dailyExcessCalories);
 }
+
+// TODO: hier ist kein Code-Smell, weil alles tip top aussieht  
+
