@@ -3,6 +3,9 @@ export enum Sex {
   Female = "f",
 }
 
+const CALORIES_PER_KG = 9000;
+
+
 const foodNames: string[] = [
   "Kellogg's Tresor",
   "Weihenstephan Haltbare Milch",
